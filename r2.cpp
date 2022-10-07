@@ -1,3 +1,4 @@
+// Source : https://open.kattis.com/problems/r2
 #include <iostream>
 using namespace std;
 
