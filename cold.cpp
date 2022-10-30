@@ -1,3 +1,4 @@
+// Source : https://open.kattis.com/problems/cold
 #include <iostream>
 using namespace std;
 
