@@ -1,3 +1,4 @@
+// Source : PDF/DoubleSpeed.pdf
 #include <iostream>
 using namespace std;
 
