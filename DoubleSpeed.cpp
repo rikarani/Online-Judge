@@ -14,7 +14,7 @@ int main()
 
     kecepatan = ((jarak / 1000) / (waktu / 60)) * 2;
 
-    cout << kecepatan << " km/jam";
+    cout << kecepatan << " km/jam" << endl;
 
     return 0;
 }

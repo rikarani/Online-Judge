@@ -36,7 +36,7 @@ int main()
     }
 
     // cetak rata-rata
-    cout << pizzaOrang / (N - 2);
+    cout << pizzaOrang / (N - 2) << endl;
 
     return 0;
 }
